@@ -1,0 +1,21 @@
+.navbar-links {
+    position: absolute;
+    right: 3rem;
+}
+
+.navbar-links li {
+    margin-right: 2rem;
+}
+
+nav div {
+    margin-left: 3rem;
+}
+
+header {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+nav {
+    height: 5rem;
+}
